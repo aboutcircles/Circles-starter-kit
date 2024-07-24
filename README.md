@@ -41,7 +41,7 @@ Circles protocol allows for the verification of real people without the use of a
 
 ## How to begin working with Circles SDK ?
 
-<h4>Follow the [documentation link](https://docs.aboutcircles.com/developer-docs/getting-started-with-the-sdk) which has clear step-by-step info around how to utilize Circles SDK, setup Avatars and start trusting Circles User in your dApp.</h4>
+Follow the [documentation link](https://docs.aboutcircles.com/developer-docs/getting-started-with-the-sdk) which has clear step-by-step info around how to utilize Circles SDK, setup Avatars and start trusting Circles User in your dApp.
 
 ---
 ## Check out previous submissions for ETH GLOBAL Brussels Hackathon'2024
