@@ -3,33 +3,26 @@ This is Hacker Guide to support hackers/developers which can be utilized during 
 
 Circles is a social currency initiative built on Gnosis Chain, designed to facilitate local and global economies through a regular token issuance and demurrage system. 
 
-## ETH Accra'2024
-At ETHAccra we are particularly interested in seeing projects that leverage our SDK to build with community, social and sybil resistance in mind.
-Most Innovative Use Case of Circles:
+## ONGOING HACKATHON : ETHDAM 2025 Bounties
 
-**🥇 First Prize: $800**
+### 1. Open Track Best innovative dApp using Circles SDK 
+🏆Up to $2000 (1 project will win)
 
-**🥈 Second Prize: $500**
+### 2. Community focused dApps using Groups
+🏆$2000 split between 2 projects
+Build governance tooling, DAOs, or innovative group-based dApps 
 
-**🥉 : Third Prize: $300**
+### 3. Social platform (or social networking) dApps personal avatars(and more)
+🏆$2000 split between 2 projects
+Create mini dApps for Telegram, social networking, or identity-focused platforms using Circles SDK
 
-## What can you build ?
+### 4. AI Agents x Circles SDK
+🏆$2000 split between 2 projects
 
-### Community
-Community is a core value to Circles, build an application that centres around community participation and engagement. Here are some examples:
-- Events platform which utilizes Circles Avatar and allows folks to connect and trust
-- Marketplace
-  
-### Social
-Use the Circles SDK to build anything from social networks to SocialFi protocols. Circles’ decentralised trust model allows you to replicate your real world connections on-chain. Here are some examples ideas:
-- Messaging app 
-- Social graph analysis
-- Gaming
-  
-### Identity/Sybil Resistance
-Circles protocol allows for the verification of real people without the use of any intrusive third parties. We're looking for projects that advance identity solutions within the Circles ecosystem, ensuring secure and genuine social interactions. Here are some examples ideas:
-- Reputation systems
-- Decentralised identity verification
+### 5.Make marketplaces application to offer services against Circles and using 
+CRC as payments token using Circles SDK
+🏆$2000 split between 2 projects
+
 
 ## Developer Resources
 
@@ -37,7 +30,7 @@ Circles protocol allows for the verification of real people without the use of a
 2. Faucet for Gnosis Chain and Chiado Testnet : https://docs.gnosischain.com/tools/faucets/
 3. Circles Playground App on Vercel (using React and Vite) : https://circles-vite-app-v2.vercel.app/
 4. Github Repo for React Implementation : https://github.com/vanshika-srivastava/circles-vite-app
-5. Discord for Hacker Support :
+5. Discord for Hacker Support
 
 ## How to begin working with Circles SDK ?
 
